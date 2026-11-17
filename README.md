@@ -1,4 +1,25 @@
-# PrismStar Bot (LYID)
+# PrismStar Bot
+
+**Versi:** 1.0.0 · **Harga:** Rp 75.000 (~$5) · **Kontak pembelian:** [@rmndkyl](https://t.me/rmndkyl)
+
+Bot farming otomatis untuk **PRISM STAR** — game card collection Web3 di Telegram (`@PrismStarGameBot`, backend `app.playprismstar.com`, ekosistem TON + Solana).
+
+## Kebutuhan
+
+| Item | Detail |
+|---|---|
+| Runtime | Python 3.10+ |
+| Wallet | EVM / sesuai chain proyek (kamu sendiri) |
+| Proxy | tidak perlu |
+| Captcha | tidak perlu |
+| Akses | akun proyek yang kamu kelola sendiri |
+
+## Pembayaran
+
+E-Wallet: DANA / GoPay / ShopeePay · Bank: BCA / Seabank · Crypto: contact for wallet address.
+Pembeli menghubungi [@rmndkyl](https://t.me/rmndkyl), kirim bukti transfer, lalu terima license key.
+
+---
 
 Bot farming otomatis untuk **PRISM STAR** — game card collection Web3 di Telegram
 (`@PrismStarGameBot`, backend `app.playprismstar.com`, ekosistem TON + Solana).
@@ -104,7 +125,6 @@ prismstar-bot/
 
 | Key | Arti |
 |---|---|
-| `invite_code` | Kode referral yang dipakai semua akun (`PSTAXRUQ` = kode kamu) |
 | `actions.*` | Nyalakan/matikan tiap langkah (`attendance`, `x_share`, `gacha`, ...) |
 | `gacha.mode` | `ten` (10 tiket sekali tarik) atau `single` |
 | `gacha.min_tickets` | Sisakan tiket sebanyak ini (0 = habiskan) |
